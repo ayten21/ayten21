@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a Data Scientist 💻 and Student 🧑‍🎓!
+I'm an Enthusiast  Data Science 💻!
 </h2> 
 
 I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
@@ -29,7 +29,6 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ![](https://img.shields.io/badge/Code-Pyhon-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Analyze-Statistics-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-ANN-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/ANN-Transfer-L-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/ANN-CNN-informational?style=flat&logo=HTML5&color=E34F26)
@@ -44,7 +43,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 - [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/)
 - [How to Handle Imbalance Dataset](https://medium.com/@ayti.hajiyeva02/how-to-handle-an-imbalanced-dataset-a10ba9e72d36)
-- [Ensemble learning](https://medium.com/@ayti.hajiyeva02/ensemble-learning-d2d9269dd668_
+- [Ensemble learning](https://medium.com/@ayti.hajiyeva02/ensemble-learning-d2d9269dd668_)
 - [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537)
 ## 📈 GitHub Stats 
 
