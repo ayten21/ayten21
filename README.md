@@ -39,7 +39,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 
 
-## 📝 Latest Blog Posts
+## 📝 Latest Articles
 
 - [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/)
 - [How to Handle Imbalance Dataset](https://medium.com/@ayti.hajiyeva02/how-to-handle-an-imbalanced-dataset-a10ba9e72d36)
@@ -51,4 +51,4 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidNazzar&layout=compact)](https://github.com/ayten21)
 
-[!Visitors(https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)]
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)]
