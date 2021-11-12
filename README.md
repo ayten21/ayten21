@@ -6,7 +6,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/xalid-nazarov-0164761a6"><img align="left" src="https://raw.githubusercontent.com/KhalidNazzar/KhalidNazzar/main/images/linkedin.svg" alt="Khalid Nazarov | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ayten-haciyeva-a2512321b"><img align="left" src="https://raw.githubusercontent.com/KhalidNazzar/KhalidNazzar/main/images/linkedin.svg" alt="Khalid Nazarov | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@ayti.hajiyeva02"><img align="left" src="https://raw.githubusercontent.com/KhalidNazzar/KhalidNazzar/main/images/medium.svg" alt="Khalid Nazzar | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -42,14 +42,14 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## 📝 Latest Blog Posts
 
-- [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/
-- [How to Handle Imbalance Dataset](https://medium.com/@ayti.hajiyeva02/how-to-handle-an-imbalanced-dataset-a10ba9e72d36
-- [Ensemble learning](https://medium.com/@ayti.hajiyeva02/ensemble-learning-d2d9269dd668
-- [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537
+- [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/)
+- [How to Handle Imbalance Dataset](https://medium.com/@ayti.hajiyeva02/how-to-handle-an-imbalanced-dataset-a10ba9e72d36)
+- [Ensemble learning](https://medium.com/@ayti.hajiyeva02/ensemble-learning-d2d9269dd668_
+- [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537)
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayten21)](https://github.com/ayten21)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidNazzar&layout=compact)](https://github.com/ayten21)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)](https://www.khalid.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)]
