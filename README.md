@@ -51,4 +51,4 @@ An important way to be successful in any field is to constantly research and dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidNazzar&layout=compact)](https://github.com/ayten21)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)]
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayten21.ayten21)](https://www.ayten.dev/)
