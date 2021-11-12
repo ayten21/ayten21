@@ -2,7 +2,7 @@
 I'm an Enthusiast  Data Science 💻!
 </h2> 
 
-I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
+An important way to be successful in any field is to constantly research and develop yourself. That's why I like to research the latest articles on Data Science, Machine Learning, Artificial Neural Networks. I prefer to spend time meeting new people and expanding my network. In addition, I am eager to discover new things, write new articles, work on different projects.
 
 ### 🤝 Connect with me:
 
