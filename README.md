@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm an Enthusiast  Data Science 💻!
+I'm Data Science enthusiast 💻!
 </h2> 
 
 An important way to be successful in any field is to constantly research and develop yourself. That's why I like to research the latest articles on Data Science, Machine Learning, Artificial Neural Networks. I prefer to spend time meeting new people and expanding my network. In addition, I am eager to discover new things, write new articles, work on different projects.
