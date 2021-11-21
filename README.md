@@ -41,10 +41,13 @@ An important way to be successful in any field is to constantly research and dev
 
 ## 📝 Latest Articles
 
-- [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/)
 - [How to Handle Imbalance Dataset](https://medium.com/@ayti.hajiyeva02/how-to-handle-an-imbalanced-dataset-a10ba9e72d36)
 - [Ensemble learning](https://medium.com/@ayti.hajiyeva02/ensemble-learning-d2d9269dd668_)
 - [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537)
+
+## 📝 Analytics Vidhya
+- [Neural Network for Regression with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/)
+- [Neural Network For Classification with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-classification-with-tensorflow/)
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayten21)](https://github.com/ayten21)
