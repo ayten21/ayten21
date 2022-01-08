@@ -16,8 +16,6 @@ An important way to be successful in any field is to constantly research and dev
 
 ## 🔭 I'm currently improving, learning and preparing for
 
-- TensorFlow Developer Certificate
-- Convolutional Neural Nerwork
 - Object Dectection
 - My next article
 - My SQL skill
@@ -25,8 +23,13 @@ An important way to be successful in any field is to constantly research and dev
 ## 🌱 I'm currently learning
 
 - 📱 Transfer Learning
-- Linear Algebra
+- Time Series
 - YoloV3
+
+## 🌱 Certificates
+- Google Tensorflow Certificate Exam - https://www.credential.net/e931f125-0f12-423b-b7f7-ae01b0d49956#gs.l5u28x
+- Getting Started with Neural Networks - https://courses.analyticsvidhya.com/certificates/a0qmks8ar5
+
 
 ## 💼 Technical Skills
 
