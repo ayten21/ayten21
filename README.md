@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm Data Science enthusiast 💻!
+Machine Learning Engineer
   
   
   Certified Tensorflow Developer
@@ -16,15 +16,15 @@ An important way to be successful in any field is to constantly research and dev
 
 ## 🔭 I'm currently improving, learning and preparing for
 
+- Automatic Speech Recognition
 - Object Dectection
 - My next article
-- My SQL skill
 
 ## 🌱 I'm currently learning
 
+- Kaldi
+- YOLO
 - 📱 Transfer Learning
-- Time Series
-- YoloV3
 
 ## 🌱 Certificates
 - Google Tensorflow Certificate Exam - https://www.credential.net/e931f125-0f12-423b-b7f7-ae01b0d49956#gs.l5u28x
