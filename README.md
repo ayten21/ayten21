@@ -22,7 +22,7 @@ An important way to be successful in any field is to constantly research and dev
 
 ## 🌱 I'm currently learning
 
-- Kubernees
+- Kubernetes
 - YOLO
 - Kaldi
 
