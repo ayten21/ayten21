@@ -18,17 +18,16 @@ An important way to be successful in any field is to constantly research and dev
 
 - Automatic Speech Recognition
 - Object Dectection
-- My next article
+- Kubernetes
 
 ## 🌱 I'm currently learning
 
-- Kaldi
+- Kubernees
 - YOLO
-- 📱 Transfer Learning
+- Kaldi
 
 ## 🌱 Certificates
-- Google Tensorflow Certificate Exam - https://www.credential.net/e931f125-0f12-423b-b7f7-ae01b0d49956#gs.l5u28x
-- Getting Started with Neural Networks - https://courses.analyticsvidhya.com/certificates/a0qmks8ar5
+- https://linktr.ee/aytanhajiyeva
 
 
 ## 💼 Technical Skills
@@ -56,7 +55,7 @@ An important way to be successful in any field is to constantly research and dev
 - [Neural Network For Classification with Tensorflow](https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-classification-with-tensorflow/)
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayten21)](https://github.com/ayten21)
+[![Aytan's github stats](https://github-readme-stats.vercel.app/api?username=ayten21)](https://github.com/ayten21)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayten21&layout=compact)](https://github.com/ayten21)
 
