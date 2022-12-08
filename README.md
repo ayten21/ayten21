@@ -16,15 +16,15 @@ An important way to be successful in any field is to constantly research and dev
 
 ## 🔭 I'm currently improving, learning and preparing for
 
-- Automatic Speech Recognition
 - Object Dectection
 - Kubernetes
+- AWS
 
 ## 🌱 I'm currently learning
 
 - Kubernetes
 - YOLO
-- Kaldi
+- AWS
 
 ## 🌱 Certificates
 - https://linktr.ee/aytanhajiyeva
